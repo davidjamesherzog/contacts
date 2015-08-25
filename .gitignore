@@ -1,0 +1,6 @@
+.tmp/
+bower_components/
+build/
+node_modules/
+report/
+.idea/
