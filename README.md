@@ -11,6 +11,8 @@ following tools be installed:
  * [npm](https://www.npmjs.com/) (should be bundled with node)
  * [Gulp](https://github.com/gulpjs/gulp) (`sudo npm install -g gulp`)
  * [Bower](http://bower.io/) (`sudo npm install -g bower`)
+ * [nodemon](https://github.com/remy/nodemon) (`sudo npm install -g nodemon`)
+ * [node-dev](https://github.com/fgnass/node-dev) (`sudo npm install -g node-dev`)
 
 ### Setup
 
